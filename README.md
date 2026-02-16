@@ -1,4 +1,10 @@
+## Backend for this app is here - https://github.com/Justsah1l/OneSolve_Django
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+
+
 
 # Getting Started
 
